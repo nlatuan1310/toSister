@@ -33,6 +33,7 @@ canvas{
   vertical-align: middle;
   text-align:center;
   width:100%;
+  font-size:30px;
 }
 .message{
   font-family: 'Mountains of Christmas', cursive;
